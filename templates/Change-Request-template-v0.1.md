@@ -1,0 +1,15 @@
+# Change Request (CR)
+- CR ID / Date:
+- Requested by:
+- Description of Change:
+- Business Justification:
+- Impact Analysis:
+  - Scope impact:
+  - Effort (est. hours/days):
+  - Cost impact:
+  - Schedule impact:
+  - Risks:
+- Alternatives considered:
+- Decision (Approve/Defer/Reject):
+- Approvers:
+- Implementation plan & owner:
