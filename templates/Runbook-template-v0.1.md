@@ -1,0 +1,14 @@
+# Runbook (Operations)
+- System / Module:
+- Architecture Overview (diagram link):
+- Environments & URLs:
+- Secrets/Config (where stored; never inline):
+- Provisioning Steps:
+- Backup & Restore (frequency, test cadence):
+- Monitoring & Alerts (what, how, who):
+- Incident Response:
+  - P1 definition, response time, escalation path
+  - Workaround checklist
+- Deployment Process (branching, approvals, windows):
+- Maintenance Windows:
+- Contact & On‑call Roster:
