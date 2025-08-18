@@ -1,0 +1,13 @@
+# UAT Plan & Sign‑off
+- Project / Release:
+- UAT Window (dates):
+- Environments & Access:
+- Test Scenarios / Cases (IDs, steps, expected results):
+- Data Setup:
+- Defect Severity (P1/P2/P3) and SLAs:
+- Entry Criteria:
+- Exit Criteria (incl. zero P1, capped P2/P3):
+- Sign‑off:
+  - Business Owner:
+  - Digital PIN PM:
+  - Date:
