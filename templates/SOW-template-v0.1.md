@@ -1,0 +1,15 @@
+# Statement of Work (SOW)
+- Project Title:
+- Background:
+- Detailed Scope (features/modules):
+- Out of Scope:
+- Approach & Method (Discovery→Blueprint→Build→UAT→Go‑Live→Hypercare):
+- Deliverables per Milestone:
+- Timeline & Dependencies:
+- Client Responsibilities:
+- Pricing & Payment Terms (upfront %, milestones, terms):
+- Change Control (CR process):
+- Acceptance & UAT:
+- Support Level (Basic/Pro/Premium) post Go‑Live:
+- Legal (IP, confidentiality, termination/kill fee):
+- Signatures:
